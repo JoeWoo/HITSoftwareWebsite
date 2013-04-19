@@ -1,0 +1,21 @@
+﻿table
+{
+    margin-left:10px;
+}
+.listitem
+{
+text-align:left;
+height:24px;
+width: 626px;
+line-height:24px;
+margin-left: 25px;
+background:url(../res/dot.gif);
+background-repeat: no-repeat;
+background-position: 0px 10px;
+text-indent:10px;
+}
+.listitem:hover{ background-color: #dde0e5;}
+#form1
+{
+    margin-left:40px;
+}
